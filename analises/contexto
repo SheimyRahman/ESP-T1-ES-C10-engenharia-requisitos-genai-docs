@@ -1,1 +1,17 @@
+O Sistema de Gestão de Eventos será criado para a empresa Eventus, que atualmente utiliza formulários on-line e planilhas eletrônicas (sem integrações entre si) para gerenciar inscrições em congressos, workshops e eventos corporativos.
 
+O crescimento da quantidade de eventos tornou esse processo mais difícil de controlar devido à volumetria que aumentou e foi agravado pela falta de integrações. Especialmente em relação às vagas, pagamentos, cancelamentos e emissão de certificados. O novo sistema deverá centralizar essas atividades, proporcionar maior controle (mas sem complicar a usabilidade dos usuários) e assim, uma melhor experiência aos participantes.
+
+A análise apresentada neste exercício usa somente as informações fornecidas na apostila como resultado da etapa de elicitação.
+
+Adendo: Stakeholders
+
+Foram identificados cinco grupos de stakeholders:
+
+1) Participantes e suas ações -> Inscrever-se em eventos, acompanhar inscrições, cancelar participação e emitir certificados.
+2) Organizadores e suas ações -> Criar eventos, controlar vagas e acompanhar inscrições e participantes.
+3) Equipe Financeira e suas ações -> 	Confirmar pagamentos e controlar reembolsos.
+4) Palestrantes e suas ações ->	Consultar a programação e informações sobre participantes de suas atividades.
+5) E por último, e menos importante, mas que acham que tem muita importância (risos, e quem vos escreve aqui é da TI) - > Equipe de TI e suas ações ->	Desenvolver e manter o sistema.
+
+A identificação desses grupos é relevante porque diferentes stakeholders apresentam necessidades, ações e perspectivas distintas sobre o sistema, podendo existir conflitos, dependências ou informações que precisam ser esclarecidas durante a análise.
