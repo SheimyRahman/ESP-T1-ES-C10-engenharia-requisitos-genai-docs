@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Configurações locais / secrets
+.env
+.env.*
