@@ -1,4 +1,4 @@
-## 3. Requisitos Funcionais Identificados
+## Requisitos Funcionais Identificados
 
 A partir das informações fornecidas durante a elicitação, foram identificadas as seguintes funcionalidades potenciais.
 
@@ -28,7 +28,7 @@ O sistema deve fornecer um comprovante **único** após a realização da inscri
 
 **Origem:** Participantes.
 
-**Ponto a esclarecer:** A elicitação não define o formato do comprovante, no caso de pagamento, que ele deve ser emitido após confirmação do pagamento, nem o canal utilizado para disponibilizá-lo ou enviá-lo.
+**Ponto para verificar:** A elicitação não define o formato do comprovante, no caso de pagamento, que ele deve ser emitido após confirmação do pagamento, nem o canal utilizado para disponibilizá-lo ou enviá-lo.
 
 ---
 
@@ -38,7 +38,7 @@ O sistema deve permitir que participantes cancelem suas inscrições sem necessi
 
 **Origem:** Participantes e Organizadores.
 
-**Ponto a esclarecer:** Nem todos os eventos permitem cancelamento e as condições para isso ainda não foram definidas.
+**Ponto para verificar:** Nem todos os eventos permitem cancelamento e as condições para isso ainda não foram definidas.
 
 ---
 
@@ -48,7 +48,7 @@ O sistema deve permitir que participantes obtenham seus certificados após a par
 
 **Origem:** Participantes.
 
-**Ponto a esclarecer:** Não está definido se a emissão será automática ou dependerá da confirmação de presença.
+**Ponto para verificar:** Não está definido se a emissão será automática ou dependerá da confirmação de presença.
 
 ---
 
@@ -58,7 +58,7 @@ O sistema deve permitir que participantes se inscrevam em múltiplos workshops q
 
 **Origem:** Participantes.
 
-**Ponto a esclarecer:** A elicitação não define como serão tratadas atividades com horários conflitantes.
+**Ponto para verificar:** A elicitação não define como serão tratadas atividades com horários conflitantes.
 
 ---
 
@@ -76,7 +76,7 @@ O sistema deve oferecer uma lista de espera para eventos que estejam lotados, co
 
 **Origem:** Organizadores.
 
-**Ponto a esclarecer:** A elicitação não define como a lista de espera funcionará.
+**Ponto para verificar:** A elicitação não define como a lista de espera funcionará.
 
 ---
 
@@ -86,7 +86,7 @@ O sistema deve permitir que organizadores acompanhem a quantidade de inscritos e
 
 **Origem:** Organizadores.
 
-**Ponto a esclarecer:** O conceito de "tempo real" precisa ser refinado para permitir uma especificação verificável.
+**Ponto para verificar:** O conceito de "tempo real" precisa ser refinado para permitir uma especificação verificável.
 
 ---
 
@@ -96,7 +96,7 @@ O sistema deve permitir que organizadores criem eventos e gerenciem suas informa
 
 **Origem:** Organizadores.
 
-**Ponto a esclarecer:** A elicitação não detalha quais informações poderão ser cadastradas ou alteradas.
+**Ponto para verificar:** A elicitação não detalha quais informações poderão ser cadastradas ou alteradas.
 
 ---
 
@@ -106,7 +106,7 @@ O sistema deve permitir o controle dos pagamentos relacionados às inscrições 
 
 **Origem:** Equipe Financeira.
 
-**Ponto a esclarecer:** A elicitação não define o mecanismo de pagamento nem todos os estados possíveis de uma transação.
+**Ponto para verificar:** A elicitação não define o mecanismo de pagamento nem todos os estados possíveis de uma transação.
 
 ---
 
@@ -116,7 +116,7 @@ O sistema deve permitir que a equipe financeira confirme os pagamentos antes da 
 
 **Origem:** Equipe Financeira.
 
-**Ponto a esclarecer:** É necessário determinar em quais situações a confirmação financeira é obrigatória.
+**Ponto para verificar:** É necessário determinar em quais situações a confirmação financeira é obrigatória.
 
 ---
 
@@ -126,7 +126,7 @@ O sistema deve permitir o controle dos reembolsos relacionados às inscrições.
 
 **Origem:** Equipe Financeira.
 
-**Ponto a esclarecer:** As situações em que o participante possui direito ao reembolso ainda não foram definidas.
+**Ponto para verificar:** As situações em que o participante possui direito ao reembolso ainda não foram definidas.
 
 ---
 
@@ -136,7 +136,7 @@ O sistema deve permitir que palestrantes consultem a programação de suas ativi
 
 **Origem:** Palestrantes.
 
-**Ponto a esclarecer:** se um participante cancelar um workshop e se inscrever em outro, qual o prazo e etapas para essa atualização poder ser consultada pelo participante? Isso ainda não foi definido.
+**Ponto para verificar:** se um participante cancelar um workshop e se inscrever em outro, qual o prazo e etapas para essa atualização poder ser consultada pelo participante? Isso ainda não foi definido.
 
 ---
 
@@ -146,4 +146,4 @@ O sistema deve permitir que palestrantes consultem informações sobre os partic
 
 **Origem:** Palestrantes.
 
-**Ponto a esclarecer:** Quais informações dos participantes poderão ser visualizadas pelos palestrantes ainda não foram definidas. Deverá estar dentro da LGPD obrigatoriamente. 
+**Ponto para verificar:** Quais informações dos participantes poderão ser visualizadas pelos palestrantes ainda não foram definidas. Deverá estar dentro da LGPD obrigatoriamente. 
