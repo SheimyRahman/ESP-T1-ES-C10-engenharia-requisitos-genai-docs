@@ -1,0 +1,98 @@
+# Uso da Inteligência Artificial Generativa
+
+## Ferramenta utilizada
+
+Foi utilizada a **Inteligência Artificial Generativa (GenAI)** [chatgpt, gemini, codex] como ferramentas de apoio durante as etapas de análise e especificação dos requisitos.
+
+A GenAI não foi utilizada como substituta da análise do engenheiro de requisitos. As respostas foram analisadas criticamente, revisadas e modificadas quando necessário.
+
+---
+
+## 1. Análise dos requisitos
+
+### Prompt utilizado
+
+> Com base exclusivamente no documento de elicitação fornecido para o Sistema de Gestão de Eventos, identifique:
+>
+> - requisitos funcionais;
+> - requisitos não funcionais;
+> - regras de negócio;
+> - ambiguidades e informações que precisam ser esclarecidas.
+>
+> Não invente informações que não estejam presentes no material fornecido.
+
+### Resultado utilizado
+
+A análise gerada pela GenAI foi utilizada como apoio para identificar e organizar os requisitos funcionais, requisitos não funcionais, regras de negócio e ambiguidades.
+
+As informações foram posteriormente revisadas para garantir que não fossem introduzidas regras ou requisitos que não estivessem sustentados pelo documento de elicitação.
+
+---
+
+## 2. Seleção dos artefatos
+
+### Prompt utilizado
+
+> Com base exclusivamente no documento de elicitação e nos requisitos identificados para o Sistema de Gestão de Eventos, sugira quais artefatos de especificação de requisitos seriam mais adequados para representar o projeto.
+>
+> Para cada artefato sugerido, explique sua finalidade e sua adequação ao contexto apresentado.
+>
+> Não assuma que todos os artefatos apresentados são necessários.
+
+### Resultado utilizado
+
+A GenAI sugeriu diferentes possibilidades de artefatos de especificação, que foram avaliadas considerando o contexto do sistema, os stakeholders e os requisitos identificados.
+
+Após análise crítica, foram selecionados:
+
+- Histórias de usuário;
+- Casos de uso;
+- Critérios de aceitação.
+
+A seleção buscou manter a especificação objetiva e suficiente para os objetivos da atividade.
+
+---
+
+## 3. Elaboração dos artefatos
+
+### Prompt utilizado
+
+> Com base exclusivamente nos requisitos e informações do documento de elicitação, auxilie na elaboração dos artefatos de especificação selecionados.
+>
+> Não introduza informações que não estejam presentes no material fornecido.
+>
+> Quando houver informações insuficientes, registre a necessidade de esclarecimento em vez de assumir uma regra.
+
+### Resultado utilizado
+
+A GenAI foi utilizada como apoio à elaboração das histórias de usuário, casos de uso e critérios de aceitação.
+
+Os resultados foram revisados e modificados quando necessário, principalmente nos pontos em que a resposta poderia transformar uma informação não definida em uma regra ou requisito.
+
+---
+
+## 4. Revisão crítica
+
+Durante o processo, as respostas da GenAI foram consideradas sugestões e não como especificações definitivas.
+
+Foram realizadas revisões com o objetivo de:
+
+- evitar a criação de informações não presentes na elicitação;
+- diferenciar requisitos funcionais de regras de negócio;
+- preservar ambiguidades identificadas no material original;
+- evitar transformar lacunas da elicitação em requisitos definidos;
+- manter os artefatos consistentes entre si.
+
+---
+
+## 5. Resultado da utilização da GenAI
+
+A GenAI contribuiu principalmente para:
+
+- apoiar a identificação e organização dos requisitos;
+- identificar possíveis regras de negócio e ambiguidades;
+- sugerir alternativas de artefatos de especificação;
+- auxiliar na elaboração dos artefatos selecionados;
+- apoiar a revisão e o refinamento da documentação.
+
+A decisão final sobre os requisitos, regras de negócio, ambiguidades e artefatos utilizados permaneceu sob responsabilidade da análise realizada para o projeto.
