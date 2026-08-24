@@ -1,6 +1,6 @@
 # ESP-T1-ES-C10-engenharia-requisitos-genai-docs
 
-# Engenharia de Requisitos — Eventus
+# Engenharia de Requisitos
 
 ## Descrição do projeto
 
