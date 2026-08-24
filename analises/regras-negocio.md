@@ -103,5 +103,5 @@ Existe uma regra de negócio que faz a relação do momento em que uma vaga pass
 
 ---
 
-## Adendo 2: todos os pontos para verificar deverão ser considerados durante o refinamento dos requisitos e a validação posterior junto aos stakeholders.
+>**Adendo 2:** todos os pontos para verificar deverão ser considerados durante o refinamento dos requisitos e a validação posterior junto aos stakeholders.
 
